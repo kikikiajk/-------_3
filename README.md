@@ -1,2 +1,2 @@
-# -------_3
-Flutter project created by KLENCOD IDE
+نسخة مبسطة (بدون تشغيل بالخلفية) للتجربة الأولى.
+حط ملفات mp3 داخل assets/latmiyat/ ثم ابنِ المشروع.
